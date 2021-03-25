@@ -1,0 +1,63 @@
+<CinturonNegroSegundoDan xmlns="http://www.w3schools.com" 
+          xmlns:xsi="http://www.w3.org/2001/XSDSchema-instance" 
+          xsi:schemaLocation="diagrama.xsd"
+          >
+ <?xml-stylesheet href="examen.css"?>
+
+          <Aspirantes>
+              <id_aspirante>49380219</id_aspirante>
+              <Nombres>jorge</Nombres>
+              <Apellidos>castejon</Apellidos>
+              <DNI>49380219r</DNI>
+              <Telefono>645698756</Telefono>
+              <Direcccion>c/sol</Direcccion>
+              <Fecha_nacimiento>24/01/2002</Fecha_nacimiento>
+              <Dan>azul</Dan>
+              <Cinturon>negro</Cinturon>
+              <Fecha_ingreso>25/11/2010</Fecha_ingreso>
+              <FotoAspirante>foto</FotoAspirante>
+              <Tiempo_Dan_Anterior>1,20</Tiempo_Dan_Anterior>
+              <FotoDNI>foto</FotoDNI>
+              <FotoCarneGrados>foto</FotoCarneGrados>
+
+          </Aspirantes>
+
+          <Meritos>
+              <id_aspirante>12345</id_aspirante>
+              <Edad_aspirante>19</Edad_aspirante>
+              <LicenciaActualizada>apto</LicenciaActualizada>
+              <TrabajoEscrito>apto</TrabajoEscrito>
+
+          </Meritos>
+
+          <Tribunal>
+              <Numero_jueces>5</Numero_jueces>
+              <Calificacion_final>9</Calificacion_final>
+          </Tribunal>
+
+          <Jueces>
+              <id_jueces>023</id_jueces>
+              <Nombres>juan</Nombres>
+              <Apellidos>perez</Apellidos>
+              <DiplomaJuez>apto</DiplomaJuez>
+
+          </Jueces>
+
+
+
+<CinturonNegroSegundoDan>
+    <Tecnica_Base>apto</Tecnica_Base>
+    <Tecnica_Directa>apto</Tecnica_Directa>
+    <Tecnica_Indirecta>no apto</Tecnica_Indirecta>
+    <Tecnica_Pierna>apto</Tecnica_Pierna>
+    <Tecnica_Combinada>no apto</Tecnica_Combinada>
+    <Teoria>apto</Teoria>
+    <Kata>apto</Kata>
+    <Kumite>no apto</Kumite>
+    <Campeones>apto</Campeones>
+    <Tecnicas>no apto</Tecnicas>
+    <Aplicaciones>apto</Aplicaciones>
+    <Aplicaciones_Tecnica>apto</Aplicaciones_Tecnica>
+    <Demo_Libre>no apto</Demo_Libre>
+</CinturonNegroSegundoDan>
+</CinturonNegroSegundoDan>
