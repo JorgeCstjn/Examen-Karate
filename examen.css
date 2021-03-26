@@ -1,0 +1,647 @@
+examen{
+
+    display: table;
+     margin-top: 15;
+     margin-left: 15;
+     margin-right: 15;
+     background-color:purple;
+}
+Aspirantes::before {
+    content: "Ficha tecnica";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+Aspirantes id_aspirante{
+        color:rgb(0, 0, 0);
+        content: "ID aspirante:";
+        border:black 1px solid;
+        display: block;
+}
+
+Aspirantes id_aspirante::before{
+    color:rgb(0, 0, 0);
+    content: "ID aspirante:";
+    border:black 1px solid;
+    
+    
+}
+
+Aspirantes Nombres::before {
+    color: rgb(0, 0, 0);
+    content: "Nombre:";
+    border:black 1px solid;
+    
+
+}
+
+Aspirantes Nombres {
+    color: rgb(0, 0, 0);
+    content: "Nombre:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Apellidos::before {
+    color: rgb(0, 0, 0);
+    content: "Apellidos:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes Apellidos {
+    color: rgb(0, 0, 0);
+    content: "Apellidos:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes DNI::before {
+    color: rgb(0, 0, 0);
+    content: "DNI:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes DNI {
+    color: rgb(0, 0, 0);
+    content: "DNI:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Telefono::before {
+    color: rgb(0, 0, 0);
+    content: "Telefono:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes Telefono {
+    color: rgb(0, 0, 0);
+    content: "Telefono:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Direccion::before {
+    color: rgb(0, 0, 0);
+    content: "Direccion:";
+    border: black 1px solid;
+   
+}
+
+Aspirantes Direccion {
+    color: rgb(0, 0, 0);
+    content: "Direccion:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+
+Aspirantes Fecha_nacimiento::before {
+    color: rgb(0, 0, 0);
+    content: "Fecha_nacimiento:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes Dan {
+    color: rgb(0, 0, 0);
+    content: "Dan:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Dan::before {
+    color: rgb(0, 0, 0);
+    content: "Dan:";
+    border: black 1px solid;
+   
+
+}
+
+Aspirantes Fecha_nacimiento {
+    color: rgb(0, 0, 0);
+    content: "Fecha_nacimiento:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Cinturon::before {
+    color: rgb(0, 0, 0);
+    content: "Cinturon:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes Cinturon {
+    color: rgb(0, 0, 0);
+    content: "Cinturon:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Fecha_ingreso::before {
+    color: rgb(0, 0, 0);
+    content: "Fecha_ingreso:";
+    border: black 1px solid;
+   
+
+}
+
+Aspirantes Fecha_ingreso {
+    color: rgb(0, 0, 0);
+    content: "Fecha_ingreso:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes FotoAspirante::before {
+    color: rgb(0, 0, 0);
+    content: "FotoAspirante:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes FotoAspirante {
+    color: rgb(0, 0, 0);
+    content: "FotoAspirante:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes Tiempo_Dan_Anterior::before {
+    color: rgb(0, 0, 0);
+    content: "Tiempo_Dan_Anterior:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes Tiempo_Dan_Anterior {
+    color: rgb(0, 0, 0);
+    content: "Tiempo_Dan_Anterior:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes FotoDNI::before {
+    color: rgb(0, 0, 0);
+    content: "FotoDNI:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes FotoDNI {
+    color: rgb(0, 0, 0);
+    content: "FotoDNI:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+
+Aspirantes FotoCarneGrados::before {
+    color: rgb(0, 0, 0);
+    content: "FotoCarneGrados:";
+    border: black 1px solid;
+    
+
+}
+
+Aspirantes FotoCarneGrados {
+    color: rgb(0, 0, 0);
+    content: "FotoCarneGrados:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Aspirantes id_aspirante {
+    color: rgb(0, 0, 0);
+    content: "ID aspirante:";
+    border: black 1px solid;
+    display: block;
+}
+
+Meritos::before {
+    content: "Meritos";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+Meritos id_aspirante::before {
+    color: rgb(0, 0, 0);
+    content: "id_aspirante:";
+    border: black 1px solid;
+    
+
+}
+
+Meritos id_aspirante {
+    color: rgb(0, 0, 0);
+    content: "id_aspirante:";
+    border: black 1px solid;
+    display: block;
+
+}
+
+Meritos Edad_aspirante::before {
+    color: rgb(0, 0, 0);
+    content: "Edad_aspirante:";
+    border: black 1px solid;
+    
+
+}
+
+Meritos Edad_aspirante {
+    color: rgb(0, 0, 0);
+    content: "Edad_aspirante:";
+    border: black 1px solid;
+    display: block;
+}
+
+Meritos LicenciaActualizada::before {
+    color: rgb(0, 0, 0);
+    content: "LicenciaActualizada:";
+    border: black 1px solid;
+    
+
+}
+
+Meritos LicenciaActualizada {
+    color: rgb(0, 0, 0);
+    content: "LicenciaActualizada:";
+    border: black 1px solid;
+    display: block;
+}
+
+Meritos TrabajoEscrito::before {
+    color: rgb(0, 0, 0);
+    content: "TrabajoEscrito:";
+    border: black 1px solid;
+    
+
+}
+
+Meritos TrabajoEscrito {
+    color: rgb(0, 0, 0);
+    content: "TrabajoEscrito:";
+    border: black 1px solid;
+    display: block;
+}
+    
+Tribunal::before {
+    content: "Tribunal";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+Tribunal Numero_jueces::before {
+    color: rgb(0, 0, 0);
+    content: "Numero_jueces:";
+    border: black 1px solid;
+    
+
+}
+
+Tribunal Numero_jueces {
+    color: rgb(0, 0, 0);
+    content: "Numero_jueces:";
+    border: black 1px solid;
+    display: block;
+}
+
+
+Tribunal LicenciaActualizada::before {
+    color: rgb(0, 0, 0);
+    content: "LicenciaActualizada:";
+    border: black 1px solid;
+    
+
+}
+
+Tribunal LicenciaActualizada {
+    color: rgb(0, 0, 0);
+    content: "LicenciaActualizada:";
+    border: black 1px solid;
+    display: block;
+}
+
+
+Tribunal Calificacion_final::before {
+    color: rgb(0, 0, 0);
+    content: "Calificacion_final:";
+    border: black 1px solid;
+    
+
+}
+
+Tribunal Calificacion_final {
+    color: rgb(0, 0, 0);
+    content: "Calificacion_final:";
+    border: black 1px solid;
+    display: block;
+}
+
+Jueces::before {
+    content: "Jueces";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+Jueces id_jueces::before {
+    color: rgb(0, 0, 0);
+    content: "id_jueces:";
+    border: black 1px solid;
+    
+
+}
+
+Jueces id_jueces {
+    color: rgb(0, 0, 0);
+    content: "id_jueces:";
+    border: black 1px solid;
+    display: block;
+}
+
+Jueces Nombres::before {
+    color: rgb(0, 0, 0);
+    content: "Nombres:";
+    border: black 1px solid;
+    
+
+}
+
+Jueces Apellidos {
+    color: rgb(0, 0, 0);
+    content: "Apellidos:";
+    border: black 1px solid;
+    display: block;
+}
+
+Jueces Apellidos::before {
+    color: rgb(0, 0, 0);
+    content: "Apellidos:";
+    border: black 1px solid;
+    
+
+}
+
+Jueces Apellidos {
+    color: rgb(0, 0, 0);
+    content: "Apellidos:";
+    border: black 1px solid;
+    display: block;
+}
+
+Jueces DiplomaJuez::before {
+    color: rgb(0, 0, 0);
+    content: "DiplomaJuez:";
+    border: black 1px solid;
+    
+
+}
+
+Jueces DiplomaJuez {
+    color: rgb(0, 0, 0);
+    content: "DiplomaJuez:";
+    border: black 1px solid;
+    display: block;
+}
+
+
+CinturonNegroSegundoDan::before {
+    content: "CinturonNegroSegundoDan";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
+
+
+CinturonNegroSegundoDan Tecnica_Base::before {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Base:";
+    border: black 1px solid;
+   
+
+}
+
+CinturonNegroSegundoDan Tecnica_Base {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Base:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Tecnica_Directa::before {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Directa:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Tecnica_Directa {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Directa:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Tecnica_Indirecta::before {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Indirecta:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Tecnica_Indirecta {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Indirecta:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Tecnica_Pierna::before {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Pierna:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Tecnica_Pierna {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Pierna:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Tecnica_Combinada::before {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Combinada:";
+    border: black 1px solid;
+   
+
+}
+
+CinturonNegroSegundoDan Tecnica_Combinada {
+    color: rgb(0, 0, 0);
+    content: "Tecnica_Combinada:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Teoria::before {
+    color: rgb(0, 0, 0);
+    content: "Teoria:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Teoria {
+    color: rgb(0, 0, 0);
+    content: "Teoria:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Kata::before {
+    color: rgb(0, 0, 0);
+    content: "Kata:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Kata {
+    color: rgb(0, 0, 0);
+    content: "Kata:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Kumite::before {
+    color: rgb(0, 0, 0);
+    content: "Kumite:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Kumite {
+    color: rgb(0, 0, 0);
+    content: "Kumite:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Campeones::before {
+    color: rgb(0, 0, 0);
+    content: "Campeones:";
+    border: black 1px solid;
+   
+
+}
+
+CinturonNegroSegundoDan Campeones {
+    color: rgb(0, 0, 0);
+    content: "Campeones:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Tecnicas::before {
+    color: rgb(0, 0, 0);
+    content: "Tecnicas:";
+    border: black 1px solid;
+    
+}
+
+CinturonNegroSegundoDan Tecnicas {
+    color: rgb(0, 0, 0);
+    content: "Tecnicas:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Aplicaciones::before {
+    color: rgb(0, 0, 0);
+    content: "Aplicaciones:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Aplicaciones {
+    color: rgb(0, 0, 0);
+    content: "Aplicaciones:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Aplicaciones_Tecnica::before {
+    color: rgb(0, 0, 0);
+    content: "Aplicaciones_Tecnica:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Aplicaciones_Tecnica {
+    color: rgb(0, 0, 0);
+    content: "Aplicaciones_Tecnica:";
+    border: black 1px solid;
+    display: block;
+}
+
+CinturonNegroSegundoDan Demo_Libre::before {
+    color: rgb(0, 0, 0);
+    content: "Demo_Libre:";
+    border: black 1px solid;
+    
+
+}
+
+CinturonNegroSegundoDan Demo_Libre {
+    color: rgb(0, 0, 0);
+    content: "Demo_Libre:";
+    border: black 1px solid;
+    display: block;
+}
+
+
+
+
+
+

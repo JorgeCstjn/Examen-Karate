@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet href="examen.css"?>
+
 <CinturonNegroSegundoDan xmlns="http://www.w3schools.com" 
           xmlns:xsi="http://www.w3.org/2001/XSDSchema-instance" 
           xsi:schemaLocation="diagrama.xsd"
           >
- <?xml-stylesheet href="examen.css"?>
 
           <Aspirantes>
               <id_aspirante>49380219</id_aspirante>
@@ -10,7 +12,7 @@
               <Apellidos>castejon</Apellidos>
               <DNI>49380219r</DNI>
               <Telefono>645698756</Telefono>
-              <Direcccion>c/sol</Direcccion>
+              <Direccion>c/sol</Direccion>
               <Fecha_nacimiento>24/01/2002</Fecha_nacimiento>
               <Dan>azul</Dan>
               <Cinturon>negro</Cinturon>
